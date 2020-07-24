@@ -1,0 +1,24 @@
+#theform{
+    color: white;
+    display: table;
+    padding: 15px;
+    background-color: #2c8f77;
+    border: solid 2px black;
+    margin-left: auto;
+    margin-right: auto;
+}
+.row{
+    display: table-row;
+}
+.row label{
+    display: table-cell;
+    padding: 2px;
+}
+
+.row input{
+    display: table-cell;
+    padding: 2px;
+}
+h3{
+    text-align: center;
+}
